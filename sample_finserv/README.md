@@ -14,3 +14,18 @@ interface Account {
     [products]: string
 }
 ```
+
+### 2. customers
+> 500 documents
+```typescript
+interface Account {
+    id: string
+    username: string
+    name: string
+    address: string
+    birthdate: {"$date": string}
+    email: string
+    active: boolean
+    [accounts]: number
+}
+```
