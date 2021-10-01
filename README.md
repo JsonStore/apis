@@ -13,5 +13,4 @@ where,
 
 ## Databases
 
-- [dynalist](./dynalist) 
-  - To-do tasks and users database
+- [dynalist](./dynalist): `To-do tasks and users database`
