@@ -5,7 +5,7 @@
 ## Collections
 
 ### 1. todos
-```ts
+```typescript
 {
     userId: number
     id: number
