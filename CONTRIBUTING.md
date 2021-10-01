@@ -1,7 +1,7 @@
 ## Guidelines
 - contribute an entire directory representing a mock database
 - should contain at least one collection with appropriate data
-- add a README.md file within the directory according to [Repo Structure](https://github.com/JsonStore/apis/blob/main/CONTRIBUTING.md#readme-structure) 
+- add a README.md file within the directory according to [README Structure](https://github.com/JsonStore/apis/blob/main/CONTRIBUTING.md#readme-structure) 
 - do not create a PR changing directories & collection files thats are not contributed by you
 - only create PRs with significant changes
 
