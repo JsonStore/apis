@@ -10,4 +10,24 @@ where,
 - containing 2 collections [`todos`](./dynalist/todos.json) & [`users`](./dynalist/users.json)
 - [README.md](./dynalist/README.md) providing information about the database & document structure
 
+### README Structure
+```markdown
+# database name
+- brief about the database and consisting collections
 
+## Collections
+
+### 1. firstCollection
+> n documents
+{ typescript interface for document }
+
+### 2. secondCollection
+> m documents
+{ typescript interface for document }
+
+...
+
+...
+
+```
+> refer this [example](./dynalist/README.md)
