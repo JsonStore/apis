@@ -5,14 +5,13 @@
 - do not create a PR changing directories & collection files thats are not contributed by you
 - only create PRs with significant changes
 
+
 ## Naming Conventions  
 
 - Main directory: snake case ` eg: sample_database`
 - Collection files: camel case `eg: sampleCollection.json`
 - Document keys: camel case `eg: {"sampleKey": "some value"}`
 
-
-<hr/>
 
 ### README Structure
 ```markdown
