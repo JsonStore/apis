@@ -1,6 +1,6 @@
 # Introduction
 This repository consists of fake json placeholders,
-directories in the [root](./) level is analogical to a MongoDB database
+directories in the [root](https://github.com/JsonStore/apis) level is analogical to a MongoDB database
 
 
 
