@@ -1,5 +1,5 @@
 # Dynalist
-- To-do taks and users database
+- To-do tasks and users database
 
 
 ## Collections
