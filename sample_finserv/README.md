@@ -33,7 +33,7 @@ interface Account {
 ### 3. transactions
 > 1,746 documents
 ```typescript
-interface Account {
+interface Transaction {
     id: string
     account_id: number
     transaction_count: number
