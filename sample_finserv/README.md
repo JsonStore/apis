@@ -29,3 +29,21 @@ interface Account {
     [accounts]: number
 }
 ```
+
+### 3. transactions
+> 1,746 documents
+```typescript
+interface Account {
+    id: string
+    account_id: number
+    transaction_count: number
+    [transactions]: {
+        date: {"$date": string}
+        amount: number
+        transaction_code: string
+        symbol: string
+        price: number
+        total: number
+    }
+}
+```
