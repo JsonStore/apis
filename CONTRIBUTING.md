@@ -10,7 +10,6 @@
 
 - Main directory: snake case ` eg: sample_database`
 - Collection files: camel case `eg: sampleCollection.json`
-- Document keys: camel case `eg: {"sampleKey": "some value"}`
 
 
 ### README Structure
