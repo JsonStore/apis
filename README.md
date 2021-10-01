@@ -9,3 +9,8 @@ where,
 - `dynalist` represents the database
 - containing 2 collections [`todos`](./dynalist/todos.json) & [`users`](./dynalist/users.json)
 - [README.md](./dynalist/README.md) providing information about the database & document structure
+
+
+## Databases
+
+- [dynalist](./dynalist): To-do tasks and users database
