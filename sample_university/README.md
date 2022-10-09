@@ -1,6 +1,6 @@
 # Sample University
 - Contains student grade information on a given class, including scores on different assessments.
-
+- Student Information includes id, student id, scores, classid of a student 
 
 ## Collections
 
